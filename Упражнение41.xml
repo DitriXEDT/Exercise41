@@ -19,7 +19,7 @@
 					<v8:content>Упражнение41</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Обработка, которая сделает пользователя счастливым</Comment>
 			<DefaultForm>ExternalDataProcessor.Упражнение41.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
